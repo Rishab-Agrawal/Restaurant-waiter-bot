@@ -1,7 +1,7 @@
 # Restaurant-waiter-bot
 
 This project was my first in this domain (image processing using OpenCV), and it has been an extensive one, allowing me to explore and use OpenCV exhaustively.
-The problem statement here was to allow the robot to act like an autonomous delivery machine, using color detection to help it follow a track,
+The problem statement here was to allow the robot to act like an autonomous delivery machine, using color detection and motion control algorithms (a rudimentary implementation of a Stanley controller) to help it follow a track,
 as well as mark delivery checkpoints.
 
 The track following algorithm was one of the most engaging parts of the project, and was updated many times. Initially, the approach was to use 
